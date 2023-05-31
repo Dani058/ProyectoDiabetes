@@ -1,1 +1,7 @@
-# ProyectoDiabetes
+# Predicción de diabetes basado en indicadores de salud asociados a la misma.
+1. La diabetes se considera una de las enfermedades más mortales y crónicas que causa un aumento en el azúcar en la sangre.
+2. Muchas complicaciones ocurren si la diabetes no se trata ni se identifica.
+3.El tedioso proceso de identificación resulta en que el paciente visite un centro de diagnóstico y consulte a un médico. Pero el aumento en los enfoques de aprendizaje automático resuelve este problema crítico.
+4. El objetivo de este estudio es diseñar un modelo que pueda pronosticar la probabilidad de diabetes en pacientes con la máxima precisión. Por lo tanto, se utilizan algoritmos de clasificación como Regresión Logística, Random Forest, Árbol de decisiones, SVM (Máquinas de Vectores de Soporte), KNN y Naive Bayes en este experimento para detectar la diabetes en una etapa temprana. Logistic regression
+5. Los experimentos se realizan en la Base de datos de Diabetes del Sistema de Vigilancia de Factores de Riesgo del Comportamiento (BRFSS, por sus siglas en inglés) es una encuesta telefónica relacionada con la salud que los CDC recopilan anualmente. 
+6. El rendimiento de los algoritmos se evalúa en diversas medidas como Accuracy, F1-score y ROC AUC. La exactitud se mide en instancias clasificadas correctamente e incorrectamente. Los resultados obtenidos muestran que Regresión ogística tiene el mejor rendimiento con la mayor precisión en comparación con otros algoritmos. Estos resultados se verifican utilizando curvas de Característica Operativa del Receptor (ROC) de manera adecuada y sistemática.
